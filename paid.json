@@ -1,1 +1,5 @@
-["shahid","nabi","raja"]
+[
+    { "id": 7049344893, "name": "Shahid", "subscription": "owner" },
+    { "id": 456, "name": "User2", "subscription": "annual" },
+    { "id": 789, "name": "User3", "subscription": "monthly" }
+]
